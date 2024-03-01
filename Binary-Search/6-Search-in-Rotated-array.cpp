@@ -1,3 +1,5 @@
+// IN THIS YOU WILL GIVEN THE ROTATED ARRAY OR THE ARRAY E USED IN FINDING THE PIVOT ELEMENT HERE WE WE HAVE TO FIND THE KEY USING THE BINARY SEARCH
+
 #include <bits/stdc++.h> 
 using namespace std;
 int pivot(vector<int>& arr , int n )
